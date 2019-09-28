@@ -1,7 +1,7 @@
 require 'pry'
 require 'yaml'
 
-def load_library(library)
+def load_library(file)
   new_hash = {
    "get_meaning" => {},
    "get_emoticon" => {}
