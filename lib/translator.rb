@@ -2,5 +2,5 @@ require 'pry'
 require 'yaml'
 
 def load_library(file)
-  load_library
+  load_library = YAML
 end  
